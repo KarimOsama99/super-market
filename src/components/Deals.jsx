@@ -97,13 +97,13 @@ const Deals = () => {
           </div>
           <div className="deal-week-box rounded-16 overflow-hidden flex-between position-relative z-1 mb-24">
             <img
-              src="../src/assets/images/bg/week-deal-bg.png"
+              src="./images/bg/week-deal-bg.png"
               alt=""
               className="position-absolute inset-block-start-0 inset-block-start-0 w-100 h-100 z-n1 object-fit-cover"
             />
             <div className="d-lg-block d-none ps-32 flex-shrink-0">
               <img
-                src="../src/assets/images/thumbs/week-deal-img1.png"
+                src="./images/thumbs/week-deal-img1.png"
                 alt=""
               />
             </div>
@@ -133,7 +133,7 @@ const Deals = () => {
             <div className="d-lg-block d-none flex-shrink-0 pe-xl-5">
               <div className="me-xxl-5">
                 <img
-                  src="../src/assets/images/thumbs/week-deal-img2.png"
+                  src="./images/thumbs/week-deal-img2.png"
                   alt=""
                 />
               </div>
@@ -151,7 +151,7 @@ const Deals = () => {
                       Sold
                     </span>
                     <img
-                      src="../src/assets/images/thumbs/product-two-img1.png"
+                      src="./images/thumbs/product-two-img1.png"
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -232,7 +232,7 @@ const Deals = () => {
                       Sale 50%{" "}
                     </span>
                     <img
-                      src="../src/assets/images/thumbs/product-two-img2.png"
+                      src="./images/thumbs/product-two-img2.png"
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -313,7 +313,7 @@ const Deals = () => {
                       New
                     </span>
                     <img
-                      src="../src/assets/images/thumbs/product-two-img3.png"
+                      src="./images/thumbs/product-two-img3.png"
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -394,7 +394,7 @@ const Deals = () => {
                       Best seller
                     </span>
                     <img
-                      src="../src/assets/images/thumbs/product-two-img4.png"
+                      src="./images/thumbs/product-two-img4.png"
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -475,7 +475,7 @@ const Deals = () => {
                       Best Seller{" "}
                     </span>
                     <img
-                      src="../src/assets/images/thumbs/product-two-img5.png"
+                      src="./images/thumbs/product-two-img5.png"
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -556,7 +556,7 @@ const Deals = () => {
                       Best seller
                     </span>
                     <img
-                      src="../src/assets/images/thumbs/product-two-img6.png"
+                      src="./images/thumbs/product-two-img6.png"
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -637,7 +637,7 @@ const Deals = () => {
                       New
                     </span>
                     <img
-                      src="../src/assets/images/thumbs/product-two-img9.png"
+                      src="./images/thumbs/product-two-img9.png"
                       alt=""
                       className="w-auto max-w-unset"
                     />

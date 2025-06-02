@@ -30,7 +30,7 @@ const RecentlyViewed = () => {
                     Best Seller{" "}
                   </span>
                   <img
-                    src="../src/assets/images/thumbs/product-two-img1.png"
+                    src="./images/thumbs/product-two-img1.png"
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -99,7 +99,7 @@ const RecentlyViewed = () => {
                     New
                   </span>
                   <img
-                    src="../src/assets/images/thumbs/product-two-img2.png"
+                    src="./images/thumbs/product-two-img2.png"
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -168,7 +168,7 @@ const RecentlyViewed = () => {
                     Sale 50%
                   </span>
                   <img
-                    src="../src/assets/images/thumbs/product-two-img3.png"
+                    src="./images/thumbs/product-two-img3.png"
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -237,7 +237,7 @@ const RecentlyViewed = () => {
                     Sold
                   </span>
                   <img
-                    src="../src/assets/images/thumbs/product-two-img4.png"
+                    src="./images/thumbs/product-two-img4.png"
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -306,7 +306,7 @@ const RecentlyViewed = () => {
                     Best Seller{" "}
                   </span>
                   <img
-                    src="../src/assets/images/thumbs/product-two-img5.png"
+                    src="./images/thumbs/product-two-img5.png"
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -375,7 +375,7 @@ const RecentlyViewed = () => {
                     New
                   </span>
                   <img
-                    src="../src/assets/images/thumbs/product-two-img6.png"
+                    src="./images/thumbs/product-two-img6.png"
                     alt=""
                     className="w-auto max-w-unset"
                   />

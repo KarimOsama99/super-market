@@ -97,7 +97,7 @@ const Organic = () => {
                   className="product-card__thumb flex-center"
                 >
                   <img
-                    src="../src/assets/images/thumbs/product-img20.png"
+                    src="./images/thumbs/product-img20.png"
                     alt=""
                   />
                 </Link>
@@ -149,7 +149,7 @@ const Organic = () => {
                   className="product-card__thumb flex-center"
                 >
                   <img
-                    src="../src/assets/images/thumbs/product-img21.png"
+                    src="./images/thumbs/product-img21.png"
                     alt=""
                   />
                 </Link>
@@ -201,7 +201,7 @@ const Organic = () => {
                   className="product-card__thumb flex-center"
                 >
                   <img
-                    src="../src/assets/images/thumbs/product-img22.png"
+                    src="./images/thumbs/product-img22.png"
                     alt=""
                   />
                 </Link>
@@ -253,7 +253,7 @@ const Organic = () => {
                   className="product-card__thumb flex-center"
                 >
                   <img
-                    src="../src/assets/images/thumbs/product-img23.png"
+                    src="./images/thumbs/product-img23.png"
                     alt=""
                   />
                 </Link>
@@ -305,7 +305,7 @@ const Organic = () => {
                   className="product-card__thumb flex-center"
                 >
                   <img
-                    src="../src/assets/images/thumbs/product-img24.png"
+                    src="./images/thumbs/product-img24.png"
                     alt=""
                   />
                 </Link>
@@ -357,7 +357,7 @@ const Organic = () => {
                   className="product-card__thumb flex-center"
                 >
                   <img
-                    src="../src/assets/images/thumbs/product-img25.png"
+                    src="./images/thumbs/product-img25.png"
                     alt=""
                   />
                 </Link>
@@ -409,7 +409,7 @@ const Organic = () => {
                   className="product-card__thumb flex-center"
                 >
                   <img
-                    src="../src/assets/images/thumbs/product-img21.png"
+                    src="./images/thumbs/product-img21.png"
                     alt=""
                   />
                 </Link>

@@ -1,7 +1,9 @@
-import React from 'react'
 import { Link } from 'react-router-dom'
+import { useState } from 'react';
 
 const Account = () => {
+    const [showRegisterPassword, setShowRegisterPassword] = useState(false);
+    const [showLoginPassword, setShowLoginPassword] = useState(false);
     return (
         <section className="account py-80">
             <div className="container container-lg">
@@ -34,15 +36,16 @@ const Account = () => {
                                     </label>
                                     <div className="position-relative">
                                         <input
-                                            type="password"
+                                            type={showLoginPassword ? 'text' : 'password'}
                                             className="common-input"
                                             id="password"
                                             placeholder="Enter Password"
                                             defaultValue="password"
                                         />
                                         <span
-                                            className="toggle-password position-absolute top-50 inset-inline-end-0 me-16 translate-middle-y cursor-pointer ph ph-eye-slash"
+                                            className={`toggle-password position-absolute top-50 inset-inline-end-0 me-16 translate-middle-y cursor-pointer ph${showLoginPassword ? ' ph-eye' : ' ph-eye-slash'}`}
                                             id="#password"
+                                            onClick={() => setShowLoginPassword((prev) => !prev)}
                                         />
                                     </div>
                                 </div>
@@ -121,15 +124,16 @@ const Account = () => {
                                     </label>
                                     <div className="position-relative">
                                         <input
-                                            type="password"
+                                            type={showRegisterPassword ? "text" : "password"}
                                             className="common-input"
                                             id="enter-password"
                                             placeholder="Enter Password"
                                             defaultValue="password"
                                         />
                                         <span
-                                            className="toggle-password position-absolute top-50 inset-inline-end-0 me-16 translate-middle-y cursor-pointer ph ph-eye-slash"
+                                            className={`toggle-password position-absolute top-50 inset-inline-end-0 me-16 translate-middle-y cursor-pointer ph ${showRegisterPassword ? "ph-eye" : "ph-eye-slash"}`}
                                             id="#enter-password"
+                                            onClick={() => setShowRegisterPassword((prev) => !prev)}
                                         />
                                     </div>
                                 </div>

@@ -8745,8 +8745,8 @@ input:focus-visible {
     padding-block-end: clamp(2rem, -8.859rem + 22.623vw, 13.75rem);
     padding-inline-start: clamp(1rem, -11.87rem + 20.758vw, 8.875rem);
     padding-inline-end: clamp(1rem, -5.129rem + 9.885vw, 4.75rem);
-    -webkit-mask-image: url(../images/bg/banner-bg2.png);
-    mask-image: url(../images/bg/banner-bg2.png);
+    -webkit-mask-image: url(./images/bg/banner-bg2.png);
+    mask-image: url(./images/bg/banner-bg2.png);
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     background: #D3EBC0;
@@ -9079,8 +9079,8 @@ input:focus-visible {
 /* ===================================== Vendor Css Start ================================== */
 .vendor-card {
     background-color: var(--main-100);
-    -webkit-mask-image: url(../images/shape/box-shape2.png);
-    mask-image: url(../images/shape/box-shape2.png);
+    -webkit-mask-image: url(./images/shape/box-shape2.png);
+    mask-image: url(./images/shape/box-shape2.png);
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     background: #F4F6E6;

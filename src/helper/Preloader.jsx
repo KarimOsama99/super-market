@@ -12,7 +12,7 @@ const Preloader = () => {
     <>
       {active ? (
         <div className="preloader">
-          <img src="../src/assets/images/icon/preloader.gif" alt="" />
+          <img src="./images/icon/preloader.gif" alt="preloader" />
         </div>
       ) : (
         <div></div>

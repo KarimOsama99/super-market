@@ -54,7 +54,7 @@ const Banner = () => {
                         </span>
                     </a>
                     <img
-                        src="../src/assets/images/bg/banner-bg.png"
+                        src="images/bg/banner-bg.png"
                         alt=""
                         className="banner-img position-absolute inset-block-start-0 inset-inline-start-0 w-100 h-100 z-n1 object-fit-cover rounded-24"
                     />
@@ -81,7 +81,7 @@ const Banner = () => {
                                         </Link>
                                     </div>
                                     <div className="banner-item__thumb">
-                                        <img src="../../src/assets/images/thumbs/banner-img1.png" alt="" />
+                                        <img src="./images/thumbs/banner-img1.png" alt="" />
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@ const Banner = () => {
                                         </Link>
                                     </div>
                                     <div className="banner-item__thumb">
-                                        <img src="../../src/assets/images/thumbs/banner-img3.png" alt="" />
+                                        <img src="./images/thumbs/banner-img3.png" alt="" />
                                     </div>
                                 </div>
                             </div>

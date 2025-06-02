@@ -128,7 +128,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img7.png"
+                      src="./images/thumbs/product-img7.png"
                       alt=""
                     />
                   </Link>
@@ -187,7 +187,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img8.png"
+                      src="./images/thumbs/product-img8.png"
                       alt=""
                     />
                   </Link>
@@ -246,7 +246,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img9.png"
+                      src="./images/thumbs/product-img9.png"
                       alt=""
                     />
                   </Link>
@@ -305,7 +305,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img10.png"
+                      src="./images/thumbs/product-img10.png"
                       alt=""
                     />
                   </Link>
@@ -361,7 +361,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img11.png"
+                      src="./images/thumbs/product-img11.png"
                       alt=""
                     />
                   </Link>
@@ -420,7 +420,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img12.png"
+                      src="./images/thumbs/product-img12.png"
                       alt=""
                     />
                   </Link>
@@ -476,7 +476,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img13.png"
+                      src="./images/thumbs/product-img13.png"
                       alt=""
                     />
                   </Link>
@@ -535,7 +535,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img14.png"
+                      src="./images/thumbs/product-img14.png"
                       alt=""
                     />
                   </Link>
@@ -594,7 +594,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img15.png"
+                      src="./images/thumbs/product-img15.png"
                       alt=""
                     />
                   </Link>
@@ -653,7 +653,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img16.png"
+                      src="./images/thumbs/product-img16.png"
                       alt=""
                     />
                   </Link>
@@ -712,7 +712,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img17.png"
+                      src="./images/thumbs/product-img17.png"
                       alt=""
                     />
                   </Link>
@@ -771,7 +771,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img18.png"
+                      src="./images/thumbs/product-img18.png"
                       alt=""
                     />
                   </Link>
@@ -837,7 +837,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img7.png"
+                      src="./images/thumbs/product-img7.png"
                       alt=""
                     />
                   </Link>
@@ -896,7 +896,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img8.png"
+                      src="./images/thumbs/product-img8.png"
                       alt=""
                     />
                   </Link>
@@ -955,7 +955,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img9.png"
+                      src="./images/thumbs/product-img9.png"
                       alt=""
                     />
                   </Link>
@@ -1014,7 +1014,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img10.png"
+                      src="./images/thumbs/product-img10.png"
                       alt=""
                     />
                   </Link>
@@ -1070,7 +1070,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img11.png"
+                      src="./images/thumbs/product-img11.png"
                       alt=""
                     />
                   </Link>
@@ -1129,7 +1129,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img12.png"
+                      src="./images/thumbs/product-img12.png"
                       alt=""
                     />
                   </Link>
@@ -1185,7 +1185,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img13.png"
+                      src="./images/thumbs/product-img13.png"
                       alt=""
                     />
                   </Link>
@@ -1244,7 +1244,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img14.png"
+                      src="./images/thumbs/product-img14.png"
                       alt=""
                     />
                   </Link>
@@ -1303,7 +1303,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img15.png"
+                      src="./images/thumbs/product-img15.png"
                       alt=""
                     />
                   </Link>
@@ -1362,7 +1362,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img16.png"
+                      src="./images/thumbs/product-img16.png"
                       alt=""
                     />
                   </Link>
@@ -1421,7 +1421,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img17.png"
+                      src="./images/thumbs/product-img17.png"
                       alt=""
                     />
                   </Link>
@@ -1480,7 +1480,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img18.png"
+                      src="./images/thumbs/product-img18.png"
                       alt=""
                     />
                   </Link>
@@ -1546,7 +1546,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img7.png"
+                      src="./images/thumbs/product-img7.png"
                       alt=""
                     />
                   </Link>
@@ -1605,7 +1605,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img8.png"
+                      src="./images/thumbs/product-img8.png"
                       alt=""
                     />
                   </Link>
@@ -1664,7 +1664,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img9.png"
+                      src="./images/thumbs/product-img9.png"
                       alt=""
                     />
                   </Link>
@@ -1723,7 +1723,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img10.png"
+                      src="./images/thumbs/product-img10.png"
                       alt=""
                     />
                   </Link>
@@ -1779,7 +1779,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img11.png"
+                      src="./images/thumbs/product-img11.png"
                       alt=""
                     />
                   </Link>
@@ -1838,7 +1838,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img12.png"
+                      src="./images/thumbs/product-img12.png"
                       alt=""
                     />
                   </Link>
@@ -1894,7 +1894,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img13.png"
+                      src="./images/thumbs/product-img13.png"
                       alt=""
                     />
                   </Link>
@@ -1953,7 +1953,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img14.png"
+                      src="./images/thumbs/product-img14.png"
                       alt=""
                     />
                   </Link>
@@ -2012,7 +2012,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img15.png"
+                      src="./images/thumbs/product-img15.png"
                       alt=""
                     />
                   </Link>
@@ -2071,7 +2071,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img16.png"
+                      src="./images/thumbs/product-img16.png"
                       alt=""
                     />
                   </Link>
@@ -2130,7 +2130,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img17.png"
+                      src="./images/thumbs/product-img17.png"
                       alt=""
                     />
                   </Link>
@@ -2189,7 +2189,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img18.png"
+                      src="./images/thumbs/product-img18.png"
                       alt=""
                     />
                   </Link>
@@ -2255,7 +2255,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img7.png"
+                      src="./images/thumbs/product-img7.png"
                       alt=""
                     />
                   </Link>
@@ -2314,7 +2314,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img8.png"
+                      src="./images/thumbs/product-img8.png"
                       alt=""
                     />
                   </Link>
@@ -2373,7 +2373,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img9.png"
+                      src="./images/thumbs/product-img9.png"
                       alt=""
                     />
                   </Link>
@@ -2432,7 +2432,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img10.png"
+                      src="./images/thumbs/product-img10.png"
                       alt=""
                     />
                   </Link>
@@ -2488,7 +2488,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img11.png"
+                      src="./images/thumbs/product-img11.png"
                       alt=""
                     />
                   </Link>
@@ -2547,7 +2547,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img12.png"
+                      src="./images/thumbs/product-img12.png"
                       alt=""
                     />
                   </Link>
@@ -2603,7 +2603,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img13.png"
+                      src="./images/thumbs/product-img13.png"
                       alt=""
                     />
                   </Link>
@@ -2662,7 +2662,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img14.png"
+                      src="./images/thumbs/product-img14.png"
                       alt=""
                     />
                   </Link>
@@ -2721,7 +2721,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img15.png"
+                      src="./images/thumbs/product-img15.png"
                       alt=""
                     />
                   </Link>
@@ -2780,7 +2780,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img16.png"
+                      src="./images/thumbs/product-img16.png"
                       alt=""
                     />
                   </Link>
@@ -2839,7 +2839,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img17.png"
+                      src="./images/thumbs/product-img17.png"
                       alt=""
                     />
                   </Link>
@@ -2898,7 +2898,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img18.png"
+                      src="./images/thumbs/product-img18.png"
                       alt=""
                     />
                   </Link>
@@ -2964,7 +2964,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img7.png"
+                      src="./images/thumbs/product-img7.png"
                       alt=""
                     />
                   </Link>
@@ -3023,7 +3023,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img8.png"
+                      src="./images/thumbs/product-img8.png"
                       alt=""
                     />
                   </Link>
@@ -3082,7 +3082,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img9.png"
+                      src="./images/thumbs/product-img9.png"
                       alt=""
                     />
                   </Link>
@@ -3141,7 +3141,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img10.png"
+                      src="./images/thumbs/product-img10.png"
                       alt=""
                     />
                   </Link>
@@ -3197,7 +3197,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img11.png"
+                      src="./images/thumbs/product-img11.png"
                       alt=""
                     />
                   </Link>
@@ -3256,7 +3256,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img12.png"
+                      src="./images/thumbs/product-img12.png"
                       alt=""
                     />
                   </Link>
@@ -3312,7 +3312,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img13.png"
+                      src="./images/thumbs/product-img13.png"
                       alt=""
                     />
                   </Link>
@@ -3371,7 +3371,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img14.png"
+                      src="./images/thumbs/product-img14.png"
                       alt=""
                     />
                   </Link>
@@ -3430,7 +3430,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img15.png"
+                      src="./images/thumbs/product-img15.png"
                       alt=""
                     />
                   </Link>
@@ -3489,7 +3489,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img16.png"
+                      src="./images/thumbs/product-img16.png"
                       alt=""
                     />
                   </Link>
@@ -3548,7 +3548,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img17.png"
+                      src="./images/thumbs/product-img17.png"
                       alt=""
                     />
                   </Link>
@@ -3607,7 +3607,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img18.png"
+                      src="./images/thumbs/product-img18.png"
                       alt=""
                     />
                   </Link>
@@ -3673,7 +3673,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img7.png"
+                      src="./images/thumbs/product-img7.png"
                       alt=""
                     />
                   </Link>
@@ -3732,7 +3732,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img8.png"
+                      src="./images/thumbs/product-img8.png"
                       alt=""
                     />
                   </Link>
@@ -3791,7 +3791,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img9.png"
+                      src="./images/thumbs/product-img9.png"
                       alt=""
                     />
                   </Link>
@@ -3850,7 +3850,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img10.png"
+                      src="./images/thumbs/product-img10.png"
                       alt=""
                     />
                   </Link>
@@ -3906,7 +3906,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img11.png"
+                      src="./images/thumbs/product-img11.png"
                       alt=""
                     />
                   </Link>
@@ -3965,7 +3965,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img12.png"
+                      src="./images/thumbs/product-img12.png"
                       alt=""
                     />
                   </Link>
@@ -4021,7 +4021,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img13.png"
+                      src="./images/thumbs/product-img13.png"
                       alt=""
                     />
                   </Link>
@@ -4080,7 +4080,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img14.png"
+                      src="./images/thumbs/product-img14.png"
                       alt=""
                     />
                   </Link>
@@ -4139,7 +4139,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img15.png"
+                      src="./images/thumbs/product-img15.png"
                       alt=""
                     />
                   </Link>
@@ -4198,7 +4198,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img16.png"
+                      src="./images/thumbs/product-img16.png"
                       alt=""
                     />
                   </Link>
@@ -4257,7 +4257,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img17.png"
+                      src="./images/thumbs/product-img17.png"
                       alt=""
                     />
                   </Link>
@@ -4316,7 +4316,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img18.png"
+                      src="./images/thumbs/product-img18.png"
                       alt=""
                     />
                   </Link>
@@ -4382,7 +4382,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img7.png"
+                      src="./images/thumbs/product-img7.png"
                       alt=""
                     />
                   </Link>
@@ -4441,7 +4441,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img8.png"
+                      src="./images/thumbs/product-img8.png"
                       alt=""
                     />
                   </Link>
@@ -4500,7 +4500,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img9.png"
+                      src="./images/thumbs/product-img9.png"
                       alt=""
                     />
                   </Link>
@@ -4559,7 +4559,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img10.png"
+                      src="./images/thumbs/product-img10.png"
                       alt=""
                     />
                   </Link>
@@ -4615,7 +4615,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img11.png"
+                      src="./images/thumbs/product-img11.png"
                       alt=""
                     />
                   </Link>
@@ -4674,7 +4674,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img12.png"
+                      src="./images/thumbs/product-img12.png"
                       alt=""
                     />
                   </Link>
@@ -4730,7 +4730,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img13.png"
+                      src="./images/thumbs/product-img13.png"
                       alt=""
                     />
                   </Link>
@@ -4789,7 +4789,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img14.png"
+                      src="./images/thumbs/product-img14.png"
                       alt=""
                     />
                   </Link>
@@ -4848,7 +4848,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img15.png"
+                      src="./images/thumbs/product-img15.png"
                       alt=""
                     />
                   </Link>
@@ -4907,7 +4907,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img16.png"
+                      src="./images/thumbs/product-img16.png"
                       alt=""
                     />
                   </Link>
@@ -4966,7 +4966,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img17.png"
+                      src="./images/thumbs/product-img17.png"
                       alt=""
                     />
                   </Link>
@@ -5025,7 +5025,7 @@ const Recommended = () => {
                     className="product-card__thumb flex-center"
                   >
                     <img
-                      src="../src/assets/images/thumbs/product-img18.png"
+                      src="./images/thumbs/product-img18.png"
                       alt=""
                     />
                   </Link>

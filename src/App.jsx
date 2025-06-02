@@ -13,7 +13,7 @@ import ContactPage from "./pages/ContactPage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/super-market">
       {/* <ScrollToTop /> */}
       <ScrollToTop />
       <PhosphorIconInit />
@@ -21,11 +21,7 @@ function App() {
       <Routes>
         <Route exact path="/" element={<HomePage />} />
         <Route exact path="/shop" element={<ShopPage />} />
-        <Route
-          exact
-          path="/product-details"
-          element={<ProductDetailsPage />}
-        />
+        <Route exact path="/product-details" element={<ProductDetailsPage />} />
         <Route exact path="/cart" element={<CartPage />} />
         <Route exact path="/checkout" element={<CheckoutPage />} />
         <Route exact path="/account" element={<AccountPage />} />

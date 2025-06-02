@@ -19,7 +19,7 @@ const ProductList = () => {
                 className="product-card__thumb flex-center"
               >
                 <img
-                  src="../src/assets/images/thumbs/product-img1.png"
+                  src="./images/thumbs/product-img1.png"
                   alt=""
                 />
               </Link>
@@ -86,7 +86,7 @@ const ProductList = () => {
                 className="product-card__thumb flex-center"
               >
                 <img
-                  src="../src/assets/images/thumbs/product-img2.png"
+                  src="./images/thumbs/product-img2.png"
                   alt=""
                 />
               </Link>
@@ -153,7 +153,7 @@ const ProductList = () => {
                 className="product-card__thumb flex-center"
               >
                 <img
-                  src="../src/assets/images/thumbs/product-img3.png"
+                  src="./images/thumbs/product-img3.png"
                   alt=""
                 />
               </Link>
@@ -220,7 +220,7 @@ const ProductList = () => {
                 className="product-card__thumb flex-center"
               >
                 <img
-                  src="../src/assets/images/thumbs/product-img1.png"
+                  src="./images/thumbs/product-img1.png"
                   alt=""
                 />
               </Link>
@@ -287,7 +287,7 @@ const ProductList = () => {
                 className="product-card__thumb flex-center"
               >
                 <img
-                  src="../src/assets/images/thumbs/product-img5.png"
+                  src="./images/thumbs/product-img5.png"
                   alt=""
                 />
               </Link>
@@ -354,7 +354,7 @@ const ProductList = () => {
                 className="product-card__thumb flex-center"
               >
                 <img
-                  src="../src/assets/images/thumbs/product-img6.png"
+                  src="./images/thumbs/product-img6.png"
                   alt=""
                 />
               </Link>

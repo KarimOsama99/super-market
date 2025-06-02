@@ -117,7 +117,7 @@ const Header = () => {
                 </button>
                 <div className="mobile-menu__inner">
                     <Link to="/" className="mobile-menu__logo">
-                        <img src="../src/assets/images/logo/logo.png" alt="Logo" />
+                        <img src="./images/logo/logo.png" alt="Logo" />
                     </Link>
                     <div className="mobile-menu__menu">
                         {/* Nav Menu Start */}
@@ -275,7 +275,7 @@ const Header = () => {
                                             onClick={() => handleLanguageChange("English")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag1.png"
+                                                src="./images/thumbs/flag1.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -289,7 +289,7 @@ const Header = () => {
                                             onClick={() => handleLanguageChange("Japan")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag2.png"
+                                                src="./images/thumbs/flag2.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -303,7 +303,7 @@ const Header = () => {
                                             onClick={() => handleLanguageChange("French")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag3.png"
+                                                src="./images/thumbs/flag3.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -317,7 +317,7 @@ const Header = () => {
                                             onClick={() => handleLanguageChange("Germany")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag4.png"
+                                                src="./images/thumbs/flag4.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -331,7 +331,7 @@ const Header = () => {
                                             onClick={() => handleLanguageChange("Bangladesh")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag6.png"
+                                                src="./images/thumbs/flag6.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -345,7 +345,7 @@ const Header = () => {
                                             onClick={() => handleLanguageChange("South Korea")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag5.png"
+                                                src="./images/thumbs/flag5.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -367,7 +367,7 @@ const Header = () => {
                                             onClick={() => handleCurrencyChange("USD")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag1.png"
+                                                src="./images/thumbs/flag1.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -381,7 +381,7 @@ const Header = () => {
                                             onClick={() => handleCurrencyChange("Yen")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag2.png"
+                                                src="./images/thumbs/flag2.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -395,7 +395,7 @@ const Header = () => {
                                             onClick={() => handleCurrencyChange("Franc")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag3.png"
+                                                src="./images/thumbs/flag3.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -409,7 +409,7 @@ const Header = () => {
                                             onClick={() => handleCurrencyChange("EURO")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag4.png"
+                                                src="./images/thumbs/flag4.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -423,7 +423,7 @@ const Header = () => {
                                             onClick={() => handleCurrencyChange("BDT")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag6.png"
+                                                src="./images/thumbs/flag6.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -437,7 +437,7 @@ const Header = () => {
                                             onClick={() => handleCurrencyChange("WON")}
                                         >
                                             <img
-                                                src="../src/assets/images/thumbs/flag5.png"
+                                                src="./images/thumbs/flag5.png"
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -472,7 +472,7 @@ const Header = () => {
                         {/* Logo Start */}
                         <div className="logo">
                             <Link to="/" className="link">
-                                <img src="../src/assets/images/logo/logo.png" alt="Logo" />
+                                <img src="./images/logo/logo.png" alt="Logo" />
                             </Link>
                         </div>
                         {/* Logo End  */}
@@ -613,7 +613,7 @@ const Header = () => {
                                     {/* Logo Start */}
                                     <div className="logo px-16 d-lg-none d-block">
                                         <Link to="/" className="link">
-                                            <img src="../src/assets/images/logo/logo.png" alt="Logo" />
+                                            <img src="./images/logo/logo.png" alt="Logo" />
                                         </Link>
                                     </div>
                                     {/* Logo End */}

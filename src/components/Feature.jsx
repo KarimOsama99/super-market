@@ -114,7 +114,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img1.png"
+                      src="./images/thumbs/feature-img1.png"
                       alt=""
                     />
                   </Link>
@@ -132,7 +132,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img2.png"
+                      src="./images/thumbs/feature-img2.png"
                       alt=""
                     />
                   </Link>
@@ -150,7 +150,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img3.png"
+                      src="./images/thumbs/feature-img3.png"
                       alt=""
                     />
                   </Link>
@@ -168,7 +168,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img4.png"
+                      src="./images/thumbs/feature-img4.png"
                       alt=""
                     />
                   </Link>
@@ -186,7 +186,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img5.png"
+                      src="./images/thumbs/feature-img5.png"
                       alt=""
                     />
                   </Link>
@@ -204,7 +204,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img6.png"
+                      src="./images/thumbs/feature-img6.png"
                       alt=""
                     />
                   </Link>
@@ -222,7 +222,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img7.png"
+                      src="./images/thumbs/feature-img7.png"
                       alt=""
                     />
                   </Link>
@@ -240,7 +240,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img2.png"
+                      src="./images/thumbs/feature-img2.png"
                       alt=""
                     />
                   </Link>
@@ -258,7 +258,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img8.png"
+                      src="./images/thumbs/feature-img8.png"
                       alt=""
                     />
                   </Link>
@@ -276,7 +276,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img9.png"
+                      src="./images/thumbs/feature-img9.png"
                       alt=""
                     />
                   </Link>
@@ -294,7 +294,7 @@ const Feature = () => {
                 <div className="feature-item__thumb rounded-circle">
                   <Link to="/shop" className="w-100 h-100 flex-center">
                     <img
-                      src="../src/assets/images/thumbs/feature-img10.png"
+                      src="./images/thumbs/feature-img10.png"
                       alt=""
                     />
                   </Link>

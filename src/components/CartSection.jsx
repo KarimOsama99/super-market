@@ -8,7 +8,7 @@ const CartSection = () => {
     {
       id: 1,
       name: "Taylor Farms Broccoli Florets Vegetables",
-      image: "../src/assets/images/thumbs/product-two-img1.png",
+      image: "./images/thumbs/product-two-img1.png",
       price: 125,
       quantity: 1,
       rating: 4.8,
@@ -17,7 +17,7 @@ const CartSection = () => {
     {
       id: 2,
       name: "Taylor Farms Broccoli Florets Vegetables",
-      image: "../src/assets/images/thumbs/product-two-img2.png",
+      image: "./images/thumbs/product-two-img2.png",
       price: 125,
       quantity: 1,
       rating: 4.8,
@@ -26,7 +26,7 @@ const CartSection = () => {
     {
       id: 3,
       name: "Taylor Farms Broccoli Florets Vegetables",
-      image: "../src/assets/images/thumbs/product-two-img3.png",
+      image: "./images/thumbs/product-two-img3.png",
       price: 125,
       quantity: 1,
       rating: 4.8,
@@ -35,7 +35,7 @@ const CartSection = () => {
     {
       id: 4,
       name: "Taylor Farms Broccoli Florets Vegetables",
-      image: "../src/assets/images/thumbs/product-two-img4.png",
+      image: "./images/thumbs/product-two-img4.png",
       price: 125,
       quantity: 1,
       rating: 4.8,
