@@ -13,8 +13,7 @@ const Blog = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-16 overflow-hidden"
                 >
-                  <img
-                    src="./images/thumbs/blog-img1.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/blog-img1.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -69,8 +68,7 @@ const Blog = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-16 overflow-hidden"
                 >
-                  <img
-                    src="./images/thumbs/blog-img2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/blog-img2.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -125,8 +123,7 @@ const Blog = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-16 overflow-hidden"
                 >
-                  <img
-                    src="./images/thumbs/blog-img3.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/blog-img3.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -287,8 +284,7 @@ const Blog = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post1.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post1.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -319,8 +315,7 @@ const Blog = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post2.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -351,8 +346,7 @@ const Blog = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post3.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post3.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -383,8 +377,7 @@ const Blog = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post4.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post4.png`}
                     alt=""
                     className="cover-img"
                   />

@@ -80,14 +80,12 @@ const FlashSales = () => {
           <Slider {...settings}>
             <div>
               <div className="flash-sales-item rounded-16 overflow-hidden z-1 position-relative flex-align flex-0 justify-content-between gap-8">
-                <img
-                  src="./images/bg/flash-sale-bg1.png"
+                <img src={`${import.meta.env.BASE_URL}images/bg/flash-sale-bg1.png`}
                   alt=""
                   className="position-absolute inset-block-start-0 inset-inline-start-0 w-100 h-100 object-fit-cover z-n1 flash-sales-item__bg"
                 />
                 <div className="flash-sales-item__thumb d-sm-block d-none">
-                  <img
-                    src="./images/thumbs/flash-sale-img1.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/flash-sale-img1.png`}
                     alt=""
                   />
                 </div>
@@ -127,14 +125,12 @@ const FlashSales = () => {
             </div>
             <div>
               <div className="flash-sales-item rounded-16 overflow-hidden z-1 position-relative flex-align flex-0 justify-content-between gap-8">
-                <img
-                  src="./images/bg/flash-sale-bg2.png"
+                <img src={`${import.meta.env.BASE_URL}images/bg/flash-sale-bg2.png`}
                   alt=""
                   className="position-absolute inset-block-start-0 inset-inline-start-0 w-100 h-100 object-fit-cover z-n1 flash-sales-item__bg"
                 />
                 <div className="flash-sales-item__thumb d-sm-block d-none">
-                  <img
-                    src="./images/thumbs/flash-sale-img2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/flash-sale-img2.png`}
                     alt=""
                   />
                 </div>
@@ -174,14 +170,12 @@ const FlashSales = () => {
             </div>
             <div>
               <div className="flash-sales-item rounded-16 overflow-hidden z-1 position-relative flex-align flex-0 justify-content-between gap-8">
-                <img
-                  src="./images/bg/flash-sale-bg2.png"
+                <img src={`${import.meta.env.BASE_URL}images/bg/flash-sale-bg2.png`}
                   alt=""
                   className="position-absolute inset-block-start-0 inset-inline-start-0 w-100 h-100 object-fit-cover z-n1 flash-sales-item__bg"
                 />
                 <div className="flash-sales-item__thumb d-sm-block d-none">
-                  <img
-                    src="./images/thumbs/flash-sale-img2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/flash-sale-img2.png`}
                     alt=""
                   />
                 </div>

@@ -71,8 +71,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img1.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img1.png`}
                             alt=""
                           />
                         </Link>
@@ -110,8 +109,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img2.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img2.png`}
                             alt=""
                           />
                         </Link>
@@ -149,8 +147,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img3.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img3.png`}
                             alt=""
                           />
                         </Link>
@@ -188,8 +185,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img4.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img4.png`}
                             alt=""
                           />
                         </Link>
@@ -229,8 +225,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img1.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img1.png`}
                             alt=""
                           />
                         </Link>
@@ -268,8 +263,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img2.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img2.png`}
                             alt=""
                           />
                         </Link>
@@ -307,8 +301,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img3.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img3.png`}
                             alt=""
                           />
                         </Link>
@@ -346,8 +339,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img4.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img4.png`}
                             alt=""
                           />
                         </Link>
@@ -400,8 +392,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img5.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img5.png`}
                             alt=""
                           />
                         </Link>
@@ -439,8 +430,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img6.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img6.png`}
                             alt=""
                           />
                         </Link>
@@ -478,8 +468,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img7.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img7.png`}
                             alt=""
                           />
                         </Link>
@@ -517,8 +506,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img8.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img8.png`}
                             alt=""
                           />
                         </Link>
@@ -558,8 +546,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img5.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img5.png`}
                             alt=""
                           />
                         </Link>
@@ -597,8 +584,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img6.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img6.png`}
                             alt=""
                           />
                         </Link>
@@ -636,8 +622,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img7.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img7.png`}
                             alt=""
                           />
                         </Link>
@@ -675,8 +660,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img8.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img8.png`}
                             alt=""
                           />
                         </Link>
@@ -729,8 +713,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img9.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img9.png`}
                             alt=""
                           />
                         </Link>
@@ -768,8 +751,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img4.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img4.png`}
                             alt=""
                           />
                         </Link>
@@ -807,8 +789,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img7.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img7.png`}
                             alt=""
                           />
                         </Link>
@@ -846,8 +827,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img4.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img4.png`}
                             alt=""
                           />
                         </Link>
@@ -887,8 +867,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img9.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img9.png`}
                             alt=""
                           />
                         </Link>
@@ -926,8 +905,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img4.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img4.png`}
                             alt=""
                           />
                         </Link>
@@ -965,8 +943,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img7.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img7.png`}
                             alt=""
                           />
                         </Link>
@@ -1004,8 +981,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img4.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img4.png`}
                             alt=""
                           />
                         </Link>
@@ -1058,8 +1034,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img3.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img3.png`}
                             alt=""
                           />
                         </Link>
@@ -1097,8 +1072,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img7.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img7.png`}
                             alt=""
                           />
                         </Link>
@@ -1136,8 +1110,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img1.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img1.png`}
                             alt=""
                           />
                         </Link>
@@ -1175,8 +1148,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img8.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img8.png`}
                             alt=""
                           />
                         </Link>
@@ -1216,8 +1188,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img1.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img1.png`}
                             alt=""
                           />
                         </Link>
@@ -1255,8 +1226,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img7.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img7.png`}
                             alt=""
                           />
                         </Link>
@@ -1294,8 +1264,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16 mb-40">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img3.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img3.png`}
                             alt=""
                           />
                         </Link>
@@ -1333,8 +1302,7 @@ const ShortProduct = () => {
                     <div className="flex-align gap-16">
                       <div className="w-90 h-90 rounded-12 border border-gray-100 flex-shrink-0">
                         <Link to="/product-details" className="link">
-                          <img
-                            src="./images/thumbs/short-product-img8.png"
+                          <img src={`${import.meta.env.BASE_URL}images/thumbs/short-product-img8.png`}
                             alt=""
                           />
                         </Link>

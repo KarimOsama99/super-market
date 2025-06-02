@@ -96,8 +96,7 @@ const NewArrival = () => {
                   to="/product-details"
                   className="product-card__thumb flex-center"
                 >
-                  <img
-                    src="./images/thumbs/product-img20.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img20.png`}
                     alt=""
                   />
                 </Link>
@@ -148,8 +147,7 @@ const NewArrival = () => {
                   to="/product-details"
                   className="product-card__thumb flex-center"
                 >
-                  <img
-                    src="./images/thumbs/product-img21.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img21.png`}
                     alt=""
                   />
                 </Link>
@@ -200,8 +198,7 @@ const NewArrival = () => {
                   to="/product-details"
                   className="product-card__thumb flex-center"
                 >
-                  <img
-                    src="./images/thumbs/product-img22.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img22.png`}
                     alt=""
                   />
                 </Link>
@@ -252,8 +249,7 @@ const NewArrival = () => {
                   to="/product-details"
                   className="product-card__thumb flex-center"
                 >
-                  <img
-                    src="./images/thumbs/product-img23.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img23.png`}
                     alt=""
                   />
                 </Link>
@@ -304,8 +300,7 @@ const NewArrival = () => {
                   to="/product-details"
                   className="product-card__thumb flex-center"
                 >
-                  <img
-                    src="./images/thumbs/product-img24.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img24.png`}
                     alt=""
                   />
                 </Link>
@@ -356,8 +351,7 @@ const NewArrival = () => {
                   to="/product-details"
                   className="product-card__thumb flex-center"
                 >
-                  <img
-                    src="./images/thumbs/product-img25.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img25.png`}
                     alt=""
                   />
                 </Link>
@@ -408,8 +402,7 @@ const NewArrival = () => {
                   to="/product-details"
                   className="product-card__thumb flex-center"
                 >
-                  <img
-                    src="./images/thumbs/product-img21.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img21.png`}
                     alt=""
                   />
                 </Link>

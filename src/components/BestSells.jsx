@@ -33,8 +33,7 @@ const BestSells = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/best-sell1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/best-sell1.png`}
                         alt=""
                       />
                     </Link>
@@ -124,8 +123,7 @@ const BestSells = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/best-sell2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/best-sell2.png`}
                         alt=""
                       />
                     </Link>
@@ -215,8 +213,7 @@ const BestSells = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/best-sell3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/best-sell3.png`}
                         alt=""
                       />
                     </Link>
@@ -306,8 +303,7 @@ const BestSells = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/best-sell4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/best-sell4.png`}
                         alt=""
                       />
                     </Link>
@@ -392,14 +388,12 @@ const BestSells = () => {
           <div className="col-xxl-4">
             <div className="position-relative rounded-16 bg-light-purple overflow-hidden p-28 z-1 text-center">
               <div className="">
-                <img
-                  src="./images/bg/special-snacks.png"
+                <img src={`${import.meta.env.BASE_URL}images/bg/special-snacks.png`}
                   alt=""
                   className="position-absolute inset-block-start-0 inset-inline-start-0 z-n1 w-100 h-100 cover-img"
                 />
                 <div className="d-xxl-block d-none">
-                  <img
-                    src="./images/thumbs/special-snacks-img.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/special-snacks-img.png`}
                     alt=""
                   />
                 </div>

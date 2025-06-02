@@ -117,7 +117,7 @@ const Header = () => {
                 </button>
                 <div className="mobile-menu__inner">
                     <Link to="/" className="mobile-menu__logo">
-                        <img src="./images/logo/logo.png" alt="Logo" />
+                        <img src={`${import.meta.env.BASE_URL}images/logo/logo.png`} alt="Logo" />
                     </Link>
                     <div className="mobile-menu__menu">
                         {/* Nav Menu Start */}
@@ -274,8 +274,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleLanguageChange("English")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag1.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag1.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -288,8 +287,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleLanguageChange("Japan")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag2.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag2.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -302,8 +300,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleLanguageChange("French")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag3.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag3.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -316,8 +313,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleLanguageChange("Germany")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag4.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag4.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -330,8 +326,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleLanguageChange("Bangladesh")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag6.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag6.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -344,8 +339,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleLanguageChange("South Korea")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag5.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag5.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -366,8 +360,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleCurrencyChange("USD")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag1.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag1.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -380,8 +373,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleCurrencyChange("Yen")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag2.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag2.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -394,8 +386,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleCurrencyChange("Franc")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag3.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag3.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -408,8 +399,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleCurrencyChange("EURO")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag4.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag4.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -422,8 +412,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleCurrencyChange("BDT")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag6.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag6.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -436,8 +425,7 @@ const Header = () => {
                                             className="hover-bg-gray-100 text-gray-500 text-xs py-6 px-16 flex-align gap-8 rounded-0"
                                             onClick={() => handleCurrencyChange("WON")}
                                         >
-                                            <img
-                                                src="./images/thumbs/flag5.png"
+                                            <img src={`${import.meta.env.BASE_URL}images/thumbs/flag5.png`}
                                                 alt=""
                                                 className="w-16 h-12 rounded-4 border border-gray-100"
                                             />
@@ -472,7 +460,7 @@ const Header = () => {
                         {/* Logo Start */}
                         <div className="logo">
                             <Link to="/" className="link">
-                                <img src="./images/logo/logo.png" alt="Logo" />
+                                <img src={`${import.meta.env.BASE_URL}images/logo/logo.png`} alt="Logo" />
                             </Link>
                         </div>
                         {/* Logo End  */}
@@ -613,7 +601,7 @@ const Header = () => {
                                     {/* Logo Start */}
                                     <div className="logo px-16 d-lg-none d-block">
                                         <Link to="/" className="link">
-                                            <img src="./images/logo/logo.png" alt="Logo" />
+                                            <img src={`${import.meta.env.BASE_URL}images/logo/logo.png`} alt="Logo" />
                                         </Link>
                                     </div>
                                     {/* Logo End */}

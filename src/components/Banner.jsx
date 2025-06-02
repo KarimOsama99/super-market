@@ -47,14 +47,13 @@ const Banner = () => {
                 <div className="banner-item rounded-24 overflow-hidden position-relative arrow-center">
                     <a
                         href="#featureSection"
-                        className="scroll-down w-84 h-84 text-center flex-center bg-main-600 rounded-circle border border-5 text-white border-white position-absolute start-50 translate-middle-x bottom-0 hover-bg-main-800"
+                        className="scroll-down w-84 h-84 text-center flex-center bg-main-600 rounded-circle border-5 text-white border-white position-absolute start-50 translate-middle-x bottom-0 hover-bg-main-800"
                     >
                         <span className="icon line-height-0">
                             <i className="ph ph-caret-double-down" />
                         </span>
                     </a>
-                    <img
-                        src="images/bg/banner-bg.png"
+                    <img src={`${import.meta.env.BASE_URL}images/bg/banner-bg.png`}
                         alt=""
                         className="banner-img position-absolute inset-block-start-0 inset-inline-start-0 w-100 h-100 z-n1 object-fit-cover rounded-24"
                     />
@@ -81,7 +80,7 @@ const Banner = () => {
                                         </Link>
                                     </div>
                                     <div className="banner-item__thumb">
-                                        <img src="./images/thumbs/banner-img1.png" alt="" />
+                                        <img src={`${import.meta.env.BASE_URL}images/thumbs/banner-img1.png`} alt="" />
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +101,7 @@ const Banner = () => {
                                         </Link>
                                     </div>
                                     <div className="banner-item__thumb">
-                                        <img src="./images/thumbs/banner-img3.png" alt="" />
+                                        <img src={`${import.meta.env.BASE_URL}images/thumbs/banner-img3.png`} alt="" />
                                     </div>
                                 </div>
                             </div>

@@ -80,8 +80,7 @@ const TopSelling = () => {
           <div className="row g-12">
             <div className="col-md-4">
               <div className="position-relative rounded-16 overflow-hidden p-28 z-1 text-center">
-                <img
-                  src="./images/bg/deal-bg.png"
+                <img src={`${import.meta.env.BASE_URL}images/bg/deal-bg.png`}
                   alt=""
                   className="position-absolute inset-block-start-0 inset-inline-start-0 z-n1 w-100 h-100"
                 />
@@ -100,7 +99,7 @@ const TopSelling = () => {
                   </Link>
                 </div>
                 <div className="d-md-block d-none mt-36">
-                  <img src="./images/thumbs/deal-img.png" alt="" />
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/deal-img.png`} alt="" />
                 </div>
               </div>
             </div>
@@ -116,8 +115,7 @@ const TopSelling = () => {
                         <span className="product-card__badge bg-main-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                           Sold
                         </span>
-                        <img
-                          src="./images/thumbs/product-two-img7.png"
+                        <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img7.png`}
                           alt=""
                           className="w-auto max-w-unset"
                         />
@@ -199,8 +197,7 @@ const TopSelling = () => {
                         <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                           Sale 50%{" "}
                         </span>
-                        <img
-                          src="./images/thumbs/product-two-img8.png"
+                        <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img8.png`}
                           alt=""
                           className="w-auto max-w-unset"
                         />
@@ -282,8 +279,7 @@ const TopSelling = () => {
                         <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                           New
                         </span>
-                        <img
-                          src="./images/thumbs/product-two-img9.png"
+                        <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img9.png`}
                           alt=""
                           className="w-auto max-w-unset"
                         />
@@ -365,8 +361,7 @@ const TopSelling = () => {
                         <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                           Best seller
                         </span>
-                        <img
-                          src="./images/thumbs/product-two-img10.png"
+                        <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img10.png`}
                           alt=""
                           className="w-auto max-w-unset"
                         />
@@ -448,8 +443,7 @@ const TopSelling = () => {
                         <span className="product-card__badge bg-main-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                           Best Seller{" "}
                         </span>
-                        <img
-                          src="./images/thumbs/product-two-img8.png"
+                        <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img8.png`}
                           alt=""
                           className="w-auto max-w-unset"
                         />

@@ -80,8 +80,7 @@ const totalPrice = (basePrice * quantity).toFixed(2);
               <div className="col-xl-6">
                 <div className="product-details__content">
                   <div className="flex-center mb-24 flex-wrap gap-16 bg-color-one rounded-8 py-16 px-24 position-relative z-1">
-                    <img
-                      src="./images/bg/details-offer-bg.png"
+                    <img src={`${import.meta.env.BASE_URL}images/bg/details-offer-bg.png`}
                       alt=""
                       className="position-absolute inset-block-start-0 inset-inline-start-0 w-100 h-100 z-n1"
                     />
@@ -207,23 +206,23 @@ const totalPrice = (basePrice * quantity).toFixed(2);
                         <div className="color-list flex-align gap-8">
                           <button
                             type="button"
-                            className="color-list__button w-20 h-20 border border-2 border-gray-50 rounded-circle bg-info-600"
+                            className="color-list__button w-20 h-20 border-2 border-gray-50 rounded-circle bg-info-600"
                           />
                           <button
                             type="button"
-                            className="color-list__button w-20 h-20 border border-2 border-gray-50 rounded-circle bg-warning-600"
+                            className="color-list__button w-20 h-20 border-2 border-gray-50 rounded-circle bg-warning-600"
                           />
                           <button
                             type="button"
-                            className="color-list__button w-20 h-20 border border-2 border-gray-50 rounded-circle bg-tertiary-600"
+                            className="color-list__button w-20 h-20 border-2 border-gray-50 rounded-circle bg-tertiary-600"
                           />
                           <button
                             type="button"
-                            className="color-list__button w-20 h-20 border border-2 border-gray-50 rounded-circle bg-main-600"
+                            className="color-list__button w-20 h-20 border-2 border-gray-50 rounded-circle bg-main-600"
                           />
                           <button
                             type="button"
-                            className="color-list__button w-20 h-20 border border-2 border-gray-50 rounded-circle bg-gray-100"
+                            className="color-list__button w-20 h-20 border-2 border-gray-50 rounded-circle bg-gray-100"
                           />
                         </div>
                       </div>
@@ -268,8 +267,7 @@ const totalPrice = (basePrice * quantity).toFixed(2);
                       100% Guarantee Safe Checkout
                     </span>
                     <div className="mt-10">
-                      <img
-                        src="./images/thumbs/gateway-img.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/gateway-img.png`}
                         alt=""
                       />
                     </div>
@@ -475,8 +473,7 @@ const totalPrice = (basePrice * quantity).toFixed(2);
                 to="#"
                 className="btn bg-color-one rounded-16 flex-align gap-8 text-main-600 hover-bg-main-600 hover-text-white"
               >
-                <img
-                  src="./images/icon/satisfaction-icon.png"
+                <img src={`${import.meta.env.BASE_URL}images/icon/satisfaction-icon.png`}
                   alt=""
                 />
                 100% Satisfaction Guaranteed
@@ -713,8 +710,7 @@ const totalPrice = (basePrice * quantity).toFixed(2);
                     <div className="col-lg-6">
                       <h6 className="mb-24">Product Description</h6>
                       <div className="d-flex align-items-start gap-24 pb-44 border-bottom border-gray-100 mb-44">
-                        <img
-                          src="./images/thumbs/comment-img1.png"
+                        <img src={`${import.meta.env.BASE_URL}images/thumbs/comment-img1.png`}
                           alt=""
                           className="w-52 h-52 object-fit-cover rounded-circle flex-shrink-0"
                         />
@@ -768,8 +764,7 @@ const totalPrice = (basePrice * quantity).toFixed(2);
                         </div>
                       </div>
                       <div className="d-flex align-items-start gap-24">
-                        <img
-                          src="./images/thumbs/comment-img1.png"
+                        <img src={`${import.meta.env.BASE_URL}images/thumbs/comment-img1.png`}
                           alt=""
                           className="w-52 h-52 object-fit-cover rounded-circle flex-shrink-0"
                         />

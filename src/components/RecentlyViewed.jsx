@@ -29,8 +29,7 @@ const RecentlyViewed = () => {
                   <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                     Best Seller{" "}
                   </span>
-                  <img
-                    src="./images/thumbs/product-two-img1.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -98,8 +97,7 @@ const RecentlyViewed = () => {
                   <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                     New
                   </span>
-                  <img
-                    src="./images/thumbs/product-two-img2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -167,8 +165,7 @@ const RecentlyViewed = () => {
                   <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                     Sale 50%
                   </span>
-                  <img
-                    src="./images/thumbs/product-two-img3.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -236,8 +233,7 @@ const RecentlyViewed = () => {
                   <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                     Sold
                   </span>
-                  <img
-                    src="./images/thumbs/product-two-img4.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -305,8 +301,7 @@ const RecentlyViewed = () => {
                   <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                     Best Seller{" "}
                   </span>
-                  <img
-                    src="./images/thumbs/product-two-img5.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                     alt=""
                     className="w-auto max-w-unset"
                   />
@@ -374,8 +369,7 @@ const RecentlyViewed = () => {
                   <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                     New
                   </span>
-                  <img
-                    src="./images/thumbs/product-two-img6.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                     alt=""
                     className="w-auto max-w-unset"
                   />

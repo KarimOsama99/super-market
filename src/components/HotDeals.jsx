@@ -91,14 +91,12 @@ const HotDeals = () => {
         <div className="row g-12">
           <div className="col-md-4">
             <div className="hot-deals position-relative rounded-16 bg-main-600 overflow-hidden p-28 z-1 text-center">
-              <img
-                src="./images/shape/offer-shape.png"
+              <img src={`${import.meta.env.BASE_URL}images/shape/offer-shape.png`}
                 alt=""
                 className="position-absolute inset-block-start-0 inset-inline-start-0 z-n1 w-100 h-100 opacity-6"
               />
               <div className="hot-deals__thumb">
-                <img
-                  src="./images/thumbs/hot-deals-img.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/hot-deals-img.png`}
                   alt=""
                 />
               </div>
@@ -149,8 +147,7 @@ const HotDeals = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/product-img8.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                         alt=""
                       />
                     </Link>
@@ -213,8 +210,7 @@ const HotDeals = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/product-img9.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                         alt=""
                       />
                     </Link>
@@ -277,8 +273,7 @@ const HotDeals = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/product-img10.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                         alt=""
                       />
                     </Link>
@@ -341,8 +336,7 @@ const HotDeals = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/product-img18.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                         alt=""
                       />
                     </Link>
@@ -405,8 +399,7 @@ const HotDeals = () => {
                       to="/product-details"
                       className="product-card__thumb flex-center"
                     >
-                      <img
-                        src="./images/thumbs/product-img9.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                         alt=""
                       />
                     </Link>

@@ -127,8 +127,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img7.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img7.png`}
                       alt=""
                     />
                   </Link>
@@ -186,8 +185,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img8.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                       alt=""
                     />
                   </Link>
@@ -245,8 +243,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                       alt=""
                     />
                   </Link>
@@ -304,8 +301,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img10.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                       alt=""
                     />
                   </Link>
@@ -360,8 +356,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img11.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img11.png`}
                       alt=""
                     />
                   </Link>
@@ -419,8 +414,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img12.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img12.png`}
                       alt=""
                     />
                   </Link>
@@ -475,8 +469,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img13.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img13.png`}
                       alt=""
                     />
                   </Link>
@@ -534,8 +527,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img14.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img14.png`}
                       alt=""
                     />
                   </Link>
@@ -593,8 +585,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img15.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img15.png`}
                       alt=""
                     />
                   </Link>
@@ -652,8 +643,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img16.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img16.png`}
                       alt=""
                     />
                   </Link>
@@ -711,8 +701,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img17.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img17.png`}
                       alt=""
                     />
                   </Link>
@@ -770,8 +759,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img18.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                       alt=""
                     />
                   </Link>
@@ -836,8 +824,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img7.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img7.png`}
                       alt=""
                     />
                   </Link>
@@ -895,8 +882,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img8.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                       alt=""
                     />
                   </Link>
@@ -954,8 +940,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                       alt=""
                     />
                   </Link>
@@ -1013,8 +998,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img10.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                       alt=""
                     />
                   </Link>
@@ -1069,8 +1053,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img11.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img11.png`}
                       alt=""
                     />
                   </Link>
@@ -1128,8 +1111,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img12.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img12.png`}
                       alt=""
                     />
                   </Link>
@@ -1184,8 +1166,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img13.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img13.png`}
                       alt=""
                     />
                   </Link>
@@ -1243,8 +1224,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img14.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img14.png`}
                       alt=""
                     />
                   </Link>
@@ -1302,8 +1282,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img15.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img15.png`}
                       alt=""
                     />
                   </Link>
@@ -1361,8 +1340,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img16.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img16.png`}
                       alt=""
                     />
                   </Link>
@@ -1420,8 +1398,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img17.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img17.png`}
                       alt=""
                     />
                   </Link>
@@ -1479,8 +1456,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img18.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                       alt=""
                     />
                   </Link>
@@ -1545,8 +1521,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img7.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img7.png`}
                       alt=""
                     />
                   </Link>
@@ -1604,8 +1579,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img8.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                       alt=""
                     />
                   </Link>
@@ -1663,8 +1637,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                       alt=""
                     />
                   </Link>
@@ -1722,8 +1695,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img10.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                       alt=""
                     />
                   </Link>
@@ -1778,8 +1750,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img11.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img11.png`}
                       alt=""
                     />
                   </Link>
@@ -1837,8 +1808,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img12.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img12.png`}
                       alt=""
                     />
                   </Link>
@@ -1893,8 +1863,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img13.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img13.png`}
                       alt=""
                     />
                   </Link>
@@ -1952,8 +1921,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img14.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img14.png`}
                       alt=""
                     />
                   </Link>
@@ -2011,8 +1979,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img15.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img15.png`}
                       alt=""
                     />
                   </Link>
@@ -2070,8 +2037,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img16.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img16.png`}
                       alt=""
                     />
                   </Link>
@@ -2129,8 +2095,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img17.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img17.png`}
                       alt=""
                     />
                   </Link>
@@ -2188,8 +2153,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img18.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                       alt=""
                     />
                   </Link>
@@ -2254,8 +2218,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img7.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img7.png`}
                       alt=""
                     />
                   </Link>
@@ -2313,8 +2276,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img8.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                       alt=""
                     />
                   </Link>
@@ -2372,8 +2334,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                       alt=""
                     />
                   </Link>
@@ -2431,8 +2392,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img10.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                       alt=""
                     />
                   </Link>
@@ -2487,8 +2447,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img11.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img11.png`}
                       alt=""
                     />
                   </Link>
@@ -2546,8 +2505,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img12.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img12.png`}
                       alt=""
                     />
                   </Link>
@@ -2602,8 +2560,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img13.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img13.png`}
                       alt=""
                     />
                   </Link>
@@ -2661,8 +2618,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img14.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img14.png`}
                       alt=""
                     />
                   </Link>
@@ -2720,8 +2676,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img15.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img15.png`}
                       alt=""
                     />
                   </Link>
@@ -2779,8 +2734,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img16.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img16.png`}
                       alt=""
                     />
                   </Link>
@@ -2838,8 +2792,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img17.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img17.png`}
                       alt=""
                     />
                   </Link>
@@ -2897,8 +2850,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img18.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                       alt=""
                     />
                   </Link>
@@ -2963,8 +2915,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img7.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img7.png`}
                       alt=""
                     />
                   </Link>
@@ -3022,8 +2973,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img8.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                       alt=""
                     />
                   </Link>
@@ -3081,8 +3031,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                       alt=""
                     />
                   </Link>
@@ -3140,8 +3089,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img10.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                       alt=""
                     />
                   </Link>
@@ -3196,8 +3144,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img11.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img11.png`}
                       alt=""
                     />
                   </Link>
@@ -3255,8 +3202,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img12.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img12.png`}
                       alt=""
                     />
                   </Link>
@@ -3311,8 +3257,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img13.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img13.png`}
                       alt=""
                     />
                   </Link>
@@ -3370,8 +3315,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img14.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img14.png`}
                       alt=""
                     />
                   </Link>
@@ -3429,8 +3373,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img15.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img15.png`}
                       alt=""
                     />
                   </Link>
@@ -3488,8 +3431,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img16.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img16.png`}
                       alt=""
                     />
                   </Link>
@@ -3547,8 +3489,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img17.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img17.png`}
                       alt=""
                     />
                   </Link>
@@ -3606,8 +3547,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img18.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                       alt=""
                     />
                   </Link>
@@ -3672,8 +3612,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img7.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img7.png`}
                       alt=""
                     />
                   </Link>
@@ -3731,8 +3670,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img8.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                       alt=""
                     />
                   </Link>
@@ -3790,8 +3728,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                       alt=""
                     />
                   </Link>
@@ -3849,8 +3786,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img10.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                       alt=""
                     />
                   </Link>
@@ -3905,8 +3841,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img11.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img11.png`}
                       alt=""
                     />
                   </Link>
@@ -3964,8 +3899,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img12.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img12.png`}
                       alt=""
                     />
                   </Link>
@@ -4020,8 +3954,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img13.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img13.png`}
                       alt=""
                     />
                   </Link>
@@ -4079,8 +4012,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img14.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img14.png`}
                       alt=""
                     />
                   </Link>
@@ -4138,8 +4070,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img15.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img15.png`}
                       alt=""
                     />
                   </Link>
@@ -4197,8 +4128,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img16.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img16.png`}
                       alt=""
                     />
                   </Link>
@@ -4256,8 +4186,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img17.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img17.png`}
                       alt=""
                     />
                   </Link>
@@ -4315,8 +4244,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img18.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                       alt=""
                     />
                   </Link>
@@ -4381,8 +4309,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img7.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img7.png`}
                       alt=""
                     />
                   </Link>
@@ -4440,8 +4367,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img8.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img8.png`}
                       alt=""
                     />
                   </Link>
@@ -4499,8 +4425,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img9.png`}
                       alt=""
                     />
                   </Link>
@@ -4558,8 +4483,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img10.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img10.png`}
                       alt=""
                     />
                   </Link>
@@ -4614,8 +4538,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img11.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img11.png`}
                       alt=""
                     />
                   </Link>
@@ -4673,8 +4596,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img12.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img12.png`}
                       alt=""
                     />
                   </Link>
@@ -4729,8 +4651,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img13.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img13.png`}
                       alt=""
                     />
                   </Link>
@@ -4788,8 +4709,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img14.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img14.png`}
                       alt=""
                     />
                   </Link>
@@ -4847,8 +4767,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img15.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img15.png`}
                       alt=""
                     />
                   </Link>
@@ -4906,8 +4825,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img16.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img16.png`}
                       alt=""
                     />
                   </Link>
@@ -4965,8 +4883,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img17.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img17.png`}
                       alt=""
                     />
                   </Link>
@@ -5024,8 +4941,7 @@ const Recommended = () => {
                     to="/product-details"
                     className="product-card__thumb flex-center"
                   >
-                    <img
-                      src="./images/thumbs/product-img18.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img18.png`}
                       alt=""
                     />
                   </Link>

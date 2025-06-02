@@ -96,14 +96,12 @@ const Deals = () => {
             </div>
           </div>
           <div className="deal-week-box rounded-16 overflow-hidden flex-between position-relative z-1 mb-24">
-            <img
-              src="./images/bg/week-deal-bg.png"
+            <img src={`${import.meta.env.BASE_URL}images/bg/week-deal-bg.png`}
               alt=""
               className="position-absolute inset-block-start-0 inset-block-start-0 w-100 h-100 z-n1 object-fit-cover"
             />
             <div className="d-lg-block d-none ps-32 flex-shrink-0">
-              <img
-                src="./images/thumbs/week-deal-img1.png"
+              <img src={`${import.meta.env.BASE_URL}images/thumbs/week-deal-img1.png`}
                 alt=""
               />
             </div>
@@ -132,8 +130,7 @@ const Deals = () => {
             </div>
             <div className="d-lg-block d-none flex-shrink-0 pe-xl-5">
               <div className="me-xxl-5">
-                <img
-                  src="./images/thumbs/week-deal-img2.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/week-deal-img2.png`}
                   alt=""
                 />
               </div>
@@ -150,8 +147,7 @@ const Deals = () => {
                     <span className="product-card__badge bg-main-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                       Sold
                     </span>
-                    <img
-                      src="./images/thumbs/product-two-img1.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -231,8 +227,7 @@ const Deals = () => {
                     <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                       Sale 50%{" "}
                     </span>
-                    <img
-                      src="./images/thumbs/product-two-img2.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -312,8 +307,7 @@ const Deals = () => {
                     <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                       New
                     </span>
-                    <img
-                      src="./images/thumbs/product-two-img3.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -393,8 +387,7 @@ const Deals = () => {
                     <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                       Best seller
                     </span>
-                    <img
-                      src="./images/thumbs/product-two-img4.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -474,8 +467,7 @@ const Deals = () => {
                     <span className="product-card__badge bg-main-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                       Best Seller{" "}
                     </span>
-                    <img
-                      src="./images/thumbs/product-two-img5.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -555,8 +547,7 @@ const Deals = () => {
                     <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                       Best seller
                     </span>
-                    <img
-                      src="./images/thumbs/product-two-img6.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                       alt=""
                       className="w-auto max-w-unset"
                     />
@@ -636,8 +627,7 @@ const Deals = () => {
                     <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                       New
                     </span>
-                    <img
-                      src="./images/thumbs/product-two-img9.png"
+                    <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img9.png`}
                       alt=""
                       className="w-auto max-w-unset"
                     />

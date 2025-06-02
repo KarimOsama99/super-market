@@ -10,7 +10,7 @@ const BottomFooter = () => {
           </p>
           <div className="flex-align gap-8 flex-wrap">
             <span className="text-heading text-sm">We Are Acepting</span>
-            <img src="./images/thumbs/payment-method.png" alt="" />
+            <img src={`${import.meta.env.BASE_URL}images/thumbs/payment-method.png`} alt="" />
           </div>
         </div>
       </div>

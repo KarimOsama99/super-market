@@ -6,16 +6,14 @@ const Delivery = () => {
     <div className="delivery-section">
       <div className="container container-lg">
         <div className="delivery position-relative rounded-16 bg-main-600 p-16 flex-align gap-16 flex-wrap z-1">
-          <img
-            src="./images/bg/delivery-bg.png"
+          <img src={`${import.meta.env.BASE_URL}images/bg/delivery-bg.png`}
             alt=""
             className="position-absolute inset-block-start-0 inset-inline-start-0 z-n1 w-100 h-100"
           />
           <div className="row align-items-center">
             <div className="col-md-3 d-md-block d-none">
               <div className="delivery__man text-center">
-                <img
-                  src="./images/thumbs/delivery-man.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/delivery-man.png`}
                   alt=""
                 />
               </div>
@@ -39,8 +37,7 @@ const Delivery = () => {
               </div>
             </div>
             <div className="col-md-4 col-sm-5 d-sm-block d-none">
-              <img
-                src="./images/thumbs/special-snacks-img.png"
+              <img src={`${import.meta.env.BASE_URL}images/thumbs/special-snacks-img.png`}
                 alt=""
               />
             </div>

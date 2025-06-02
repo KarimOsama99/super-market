@@ -9,8 +9,7 @@ const BlogDetails = () => {
           <div className="col-lg-8 pe-xl-4">
             <div className="blog-item-wrapper">
               <div className="blog-item">
-                <img
-                  src="./images/thumbs/blog-img1.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/blog-img1.png`}
                   alt=""
                   className="cover-img rounded-16"
                 />
@@ -78,15 +77,13 @@ const BlogDetails = () => {
             <div className="mt-48">
               <div className="row gy-4">
                 <div className="col-sm-6 col-xs-6">
-                  <img
-                    src="./images/thumbs/blog-details-img1.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/blog-details-img1.png`}
                     alt=""
                     className="rounded-16"
                   />
                 </div>
                 <div className="col-sm-6 col-xs-6">
-                  <img
-                    src="./images/thumbs/blog-details-img2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/blog-details-img2.png`}
                     alt=""
                     className="rounded-16"
                   />
@@ -325,8 +322,7 @@ const BlogDetails = () => {
               <form action="#">
                 <h6 className="mb-48">Comments</h6>
                 <div className="d-flex align-items-start gap-16 mb-32 pb-32 border-bottom border-gray-100">
-                  <img
-                    src="./images/thumbs/comment-img1.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/comment-img1.png`}
                     alt=""
                     className="w-40 h-40 rounded-circle object-fit-cover flex-shrink-0"
                   />
@@ -347,8 +343,7 @@ const BlogDetails = () => {
                   </div>
                 </div>
                 <div className="d-flex align-items-start gap-16 mb-32 pb-32 border-bottom border-gray-100">
-                  <img
-                    src="./images/thumbs/comment-img2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/comment-img2.png`}
                     alt=""
                     className="w-40 h-40 rounded-circle object-fit-cover flex-shrink-0"
                   />
@@ -371,8 +366,7 @@ const BlogDetails = () => {
                   </div>
                 </div>
                 <div className="d-flex align-items-start gap-16 mb-32 pb-32 border-bottom border-gray-100">
-                  <img
-                    src="./images/thumbs/comment-img3.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/comment-img3.png`}
                     alt=""
                     className="w-40 h-40 rounded-circle object-fit-cover flex-shrink-0"
                   />
@@ -391,8 +385,7 @@ const BlogDetails = () => {
                   </div>
                 </div>
                 <div className="d-flex align-items-start gap-16 mb-32 pb-32 border-bottom border-gray-100">
-                  <img
-                    src="./images/thumbs/comment-img4.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/comment-img4.png`}
                     alt=""
                     className="w-40 h-40 rounded-circle object-fit-cover flex-shrink-0"
                   />
@@ -412,8 +405,7 @@ const BlogDetails = () => {
                   </div>
                 </div>
                 <div className="d-flex align-items-start gap-16">
-                  <img
-                    src="./images/thumbs/comment-img5.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/comment-img5.png`}
                     alt=""
                     className="w-40 h-40 rounded-circle object-fit-cover flex-shrink-0"
                   />
@@ -474,8 +466,7 @@ const BlogDetails = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post1.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post1.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -506,8 +497,7 @@ const BlogDetails = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post2.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post2.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -538,8 +528,7 @@ const BlogDetails = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post3.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post3.png`}
                     alt=""
                     className="cover-img"
                   />
@@ -570,8 +559,7 @@ const BlogDetails = () => {
                   to="/blog-details"
                   className="w-100 h-100 rounded-4 overflow-hidden w-120 h-120 flex-shrink-0"
                 >
-                  <img
-                    src="./images/thumbs/recent-post4.png"
+                  <img src={`${import.meta.env.BASE_URL}images/thumbs/recent-post4.png`}
                     alt=""
                     className="cover-img"
                   />

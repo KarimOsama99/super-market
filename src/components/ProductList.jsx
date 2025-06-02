@@ -18,8 +18,7 @@ const ProductList = () => {
                 to="/product-details"
                 className="product-card__thumb flex-center"
               >
-                <img
-                  src="./images/thumbs/product-img1.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img1.png`}
                   alt=""
                 />
               </Link>
@@ -85,8 +84,7 @@ const ProductList = () => {
                 to="/product-details"
                 className="product-card__thumb flex-center"
               >
-                <img
-                  src="./images/thumbs/product-img2.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img2.png`}
                   alt=""
                 />
               </Link>
@@ -152,8 +150,7 @@ const ProductList = () => {
                 to="/product-details"
                 className="product-card__thumb flex-center"
               >
-                <img
-                  src="./images/thumbs/product-img3.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img3.png`}
                   alt=""
                 />
               </Link>
@@ -219,8 +216,7 @@ const ProductList = () => {
                 to="/product-details"
                 className="product-card__thumb flex-center"
               >
-                <img
-                  src="./images/thumbs/product-img1.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img1.png`}
                   alt=""
                 />
               </Link>
@@ -286,8 +282,7 @@ const ProductList = () => {
                 to="/product-details"
                 className="product-card__thumb flex-center"
               >
-                <img
-                  src="./images/thumbs/product-img5.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img5.png`}
                   alt=""
                 />
               </Link>
@@ -353,8 +348,7 @@ const ProductList = () => {
                 to="/product-details"
                 className="product-card__thumb flex-center"
               >
-                <img
-                  src="./images/thumbs/product-img6.png"
+                <img src={`${import.meta.env.BASE_URL}images/thumbs/product-img6.png`}
                   alt=""
                 />
               </Link>

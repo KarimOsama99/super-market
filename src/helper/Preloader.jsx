@@ -12,7 +12,7 @@ const Preloader = () => {
     <>
       {active ? (
         <div className="preloader">
-          <img src="./images/icon/preloader.gif" alt="preloader" />
+          <img src={`${import.meta.env.BASE_URL}images/icon/preloader.gif`} alt="preloader" />
         </div>
       ) : (
         <div></div>

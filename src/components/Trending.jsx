@@ -117,8 +117,7 @@ const Trending = () => {
           </div>
           <div className="trending-products-box rounded-16 overflow-hidden flex-between position-relative mb-24">
             <div className="d-md-block d-none ps-xxl-5 ps-md-4">
-              <img
-                src="./images/thumbs/trending-products-img1.png"
+              <img src={`${import.meta.env.BASE_URL}images/thumbs/trending-products-img1.png`}
                 alt=""
               />
             </div>
@@ -129,8 +128,7 @@ const Trending = () => {
               </h6>
             </div>
             <div className="d-md-block d-none pe-xxl-5 me-xxl-5 pe-md-4">
-              <img
-                src="./images/thumbs/trending-products-img2.png"
+              <img src={`${import.meta.env.BASE_URL}images/thumbs/trending-products-img2.png`}
                 alt=""
               />
             </div>
@@ -153,8 +151,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -225,8 +222,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -297,8 +293,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sale 50%
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -369,8 +364,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sold
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -441,8 +435,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img5.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -513,8 +506,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img6.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -595,8 +587,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -667,8 +658,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -739,8 +729,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sale 50%
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -811,8 +800,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sold
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -883,8 +871,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img5.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -955,8 +942,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img6.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1037,8 +1023,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1109,8 +1094,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1181,8 +1165,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sale 50%
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1253,8 +1236,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sold
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1325,8 +1307,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img5.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1397,8 +1378,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img6.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1479,8 +1459,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1551,8 +1530,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1623,8 +1601,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sale 50%
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1695,8 +1672,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sold
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1767,8 +1743,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img5.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1839,8 +1814,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img6.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1921,8 +1895,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -1993,8 +1966,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2065,8 +2037,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sale 50%
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2137,8 +2108,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sold
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2209,8 +2179,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img5.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2281,8 +2250,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img6.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2363,8 +2331,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2435,8 +2402,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2507,8 +2473,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sale 50%
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2579,8 +2544,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sold
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2651,8 +2615,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img5.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2723,8 +2686,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img6.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2805,8 +2767,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img1.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img1.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2877,8 +2838,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img2.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img2.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -2949,8 +2909,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-danger-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sale 50%
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img3.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img3.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -3021,8 +2980,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-success-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Sold
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img4.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img4.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -3093,8 +3051,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-tertiary-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         Best Seller{" "}
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img5.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img5.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
@@ -3165,8 +3122,7 @@ const Trending = () => {
                       <span className="product-card__badge bg-warning-600 px-8 py-4 text-sm text-white position-absolute inset-inline-start-0 inset-block-start-0">
                         New
                       </span>
-                      <img
-                        src="./images/thumbs/product-two-img6.png"
+                      <img src={`${import.meta.env.BASE_URL}images/thumbs/product-two-img6.png`}
                         alt=""
                         className="w-auto max-w-unset"
                       />
